@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Log
+title: Habseligkeiten
 subtitle:
 description:
 keywords:
@@ -80,4 +80,4 @@ theme: hollow
 deploy:
   type: git
   repository: git@cogitoxin.github.com:cogitoxin/cogitoxin.github.io.git
-  branch: log
+  branch: habseligkeiten
