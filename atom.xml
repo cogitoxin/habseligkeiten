@@ -3,11 +3,11 @@
   <title>Log</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/log/atom.xml" rel="self"/>
   
-  <link href="http://log.cogitoxin.online/"/>
+  <link href="http://cogitoxin.github.io/"/>
   <updated>2018-06-19T08:28:46.000Z</updated>
-  <id>http://log.cogitoxin.online/</id>
+  <id>http://cogitoxin.github.io/</id>
   
   <author>
     <name>Lucia Campebell</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>The Left-Handed Kid</title>
-    <link href="http://log.cogitoxin.online/2018/01/02/"/>
-    <id>http://log.cogitoxin.online/2018/01/02/</id>
+    <link href="http://cogitoxin.github.io/2018/01/02/"/>
+    <id>http://cogitoxin.github.io/2018/01/02/</id>
     <published>2018-01-02T22:43:02.000Z</published>
     <updated>2018-06-19T08:28:46.000Z</updated>
     
@@ -34,15 +34,15 @@
     
     </summary>
     
-      <category term="Articles" scheme="http://log.cogitoxin.online/categories/Articles/"/>
+      <category term="Articles" scheme="http://cogitoxin.github.io/categories/Articles/"/>
     
     
   </entry>
   
   <entry>
     <title>白沙</title>
-    <link href="http://log.cogitoxin.online/2014/08/21/"/>
-    <id>http://log.cogitoxin.online/2014/08/21/</id>
+    <link href="http://cogitoxin.github.io/2014/08/21/"/>
+    <id>http://cogitoxin.github.io/2014/08/21/</id>
     <published>2014-08-21T21:43:02.000Z</published>
     <updated>2018-06-19T11:18:28.000Z</updated>
     
@@ -57,15 +57,15 @@
     
     </summary>
     
-      <category term="Excerpts" scheme="http://log.cogitoxin.online/categories/Excerpts/"/>
+      <category term="Excerpts" scheme="http://cogitoxin.github.io/categories/Excerpts/"/>
     
     
   </entry>
   
   <entry>
     <title>恰衣</title>
-    <link href="http://log.cogitoxin.online/2014/05/22/"/>
-    <id>http://log.cogitoxin.online/2014/05/22/</id>
+    <link href="http://cogitoxin.github.io/2014/05/22/"/>
+    <id>http://cogitoxin.github.io/2014/05/22/</id>
     <published>2014-05-22T21:43:02.000Z</published>
     <updated>2018-06-19T11:11:01.000Z</updated>
     
@@ -80,15 +80,15 @@
     
     </summary>
     
-      <category term="Mumbles" scheme="http://log.cogitoxin.online/categories/Mumbles/"/>
+      <category term="Mumbles" scheme="http://cogitoxin.github.io/categories/Mumbles/"/>
     
     
   </entry>
   
   <entry>
     <title>中州遺恨</title>
-    <link href="http://log.cogitoxin.online/2014/01/02/"/>
-    <id>http://log.cogitoxin.online/2014/01/02/</id>
+    <link href="http://cogitoxin.github.io/2014/01/02/"/>
+    <id>http://cogitoxin.github.io/2014/01/02/</id>
     <published>2014-01-02T22:43:02.000Z</published>
     <updated>2018-06-19T07:29:43.000Z</updated>
     
@@ -103,15 +103,15 @@
     
     </summary>
     
-      <category term="Excerpts" scheme="http://log.cogitoxin.online/categories/Excerpts/"/>
+      <category term="Excerpts" scheme="http://cogitoxin.github.io/categories/Excerpts/"/>
     
     
   </entry>
   
   <entry>
     <title>長歌</title>
-    <link href="http://log.cogitoxin.online/2014/01/02/"/>
-    <id>http://log.cogitoxin.online/2014/01/02/</id>
+    <link href="http://cogitoxin.github.io/2014/01/02/"/>
+    <id>http://cogitoxin.github.io/2014/01/02/</id>
     <published>2014-01-02T22:43:02.000Z</published>
     <updated>2018-06-19T07:31:39.000Z</updated>
     
@@ -126,15 +126,15 @@
     
     </summary>
     
-      <category term="Mumbles" scheme="http://log.cogitoxin.online/categories/Mumbles/"/>
+      <category term="Mumbles" scheme="http://cogitoxin.github.io/categories/Mumbles/"/>
     
     
   </entry>
   
   <entry>
     <title>出深圳記</title>
-    <link href="http://log.cogitoxin.online/2013/11/04/"/>
-    <id>http://log.cogitoxin.online/2013/11/04/</id>
+    <link href="http://cogitoxin.github.io/2013/11/04/"/>
+    <id>http://cogitoxin.github.io/2013/11/04/</id>
     <published>2013-11-04T22:43:02.000Z</published>
     <updated>2018-06-19T07:27:14.000Z</updated>
     
@@ -149,15 +149,15 @@
     
     </summary>
     
-      <category term="Excerpts" scheme="http://log.cogitoxin.online/categories/Excerpts/"/>
+      <category term="Excerpts" scheme="http://cogitoxin.github.io/categories/Excerpts/"/>
     
     
   </entry>
   
   <entry>
     <title>夜航船</title>
-    <link href="http://log.cogitoxin.online/2013/10/08/"/>
-    <id>http://log.cogitoxin.online/2013/10/08/</id>
+    <link href="http://cogitoxin.github.io/2013/10/08/"/>
+    <id>http://cogitoxin.github.io/2013/10/08/</id>
     <published>2013-10-08T21:43:02.000Z</published>
     <updated>2018-06-19T08:27:15.000Z</updated>
     
@@ -172,7 +172,7 @@
     
     </summary>
     
-      <category term="Excerpts" scheme="http://log.cogitoxin.online/categories/Excerpts/"/>
+      <category term="Excerpts" scheme="http://cogitoxin.github.io/categories/Excerpts/"/>
     
     
   </entry>
